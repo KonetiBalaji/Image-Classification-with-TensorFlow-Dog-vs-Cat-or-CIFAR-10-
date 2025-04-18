@@ -34,7 +34,7 @@ This project demonstrates:
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 ```text
 Input Image →
@@ -46,7 +46,7 @@ Input Image →
 
 ---
 
-## ✅ Training Result Summary
+## Training Result Summary
 
 | Metric           | Value       |
 |------------------|-------------|
@@ -60,7 +60,7 @@ Input Image →
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ```bash
 git clone https://github.com/your-username/cifar10-classifier.git
@@ -79,7 +79,7 @@ python image_classification_cifar10.py
 
 ---
 
-## 🧪 Run TensorBoard
+##  Run TensorBoard
 
 ```bash
 tensorboard --logdir=logs
@@ -87,7 +87,7 @@ tensorboard --logdir=logs
 
 ---
 
-## 📤 Optional Exports
+##  Optional Exports
 
 - Save model in `.keras` format:
   ```python
@@ -103,7 +103,7 @@ tensorboard --logdir=logs
 
 ---
 
-## 🧪 Option D: Transfer Learning (Starter)
+##  Option D: Transfer Learning (Starter)
 
 Uncomment to try:
 
@@ -123,13 +123,13 @@ Uncomment to try:
 
 ---
 
-## 📄 LICENSE
+##  LICENSE
 
 MIT License © 2025 Balaji Koneti
 
 ---
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 - [TensorFlow Docs](https://www.tensorflow.org/)
 - [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
