@@ -63,8 +63,7 @@ Input Image →
 ##  Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/cifar10-classifier.git
-cd cifar10-classifier
+git clone https://github.com/KonetiBalaji/Image-Classification-with-TensorFlow-Dog-vs-Cat-or-CIFAR-10-.git
 
 # (Recommended) Create virtual environment
 python -m venv venv
